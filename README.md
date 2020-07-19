@@ -1,2 +1,53 @@
-# DL-Study-Group
-Grupo de Estudios enfocado en los cursos de especialización "Deep Learning" de coursera 
+# Grupo de Estudios: Deep Learning Specialization
+
+<p align="center">
+   <a href="https://www.coursera.org/specializations/deep-learning">
+  <img src="./imgs/dl-specialization.png"  class="center" >
+</a>
+</p>
+
+
+Grupo de Estudios enfocado en los cursos de la especialización de [Deep Learning](https://www.coursera.org/specializations/deep-learning) ofrecidos por coursera.
+
+
+## ¿Cuál es la dinámica del grupo de estudio?
+
+Nos reunimos semanalmente abarcando temas específicos, revisando el material disponible en el curso con anticipación. El día de la reunión, uno de los integrantes hará una presentación del tema correspondiente y se resolverán las dudas que hayan al respecto. Los demás integrantes pueden aportar con temas adicionales, entablar discusión y voluntariarse para la presentación en futuras reuniones. Algunas semanas serán basadas en presentaciones teóricas y otras en prácticas, dependiendo de las tareas o ejercicios del curso.
+
+## Curso 1: Neural Networks and Deep Learning
+
+<p align="center">
+   <a href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning" >
+  <img src="https://deeplearning-assets.s3.amazonaws.com/content/uploads/2018/09/Course1-1.jpeg"   width="300" height="300" >
+</a>
+</p>
+
+En este curso, aprenderemos los fundamentos de deep learning. Podremos construir, entrenar y aplicar redes neuronales profundas completamente conectadas. Aprenderemos cómo implementar redes neuronales eficientes (vectorizadas). Comprenderemos los parámetros clave en un arquitectura de red neuronal. Este curso también nos enseña cómo funciona realmente el aprendizaje profundo, en lugar de presentar solo una descripción superficial o superficial.
+
+### Week 1: Introduction to Deep Learning
+
+### Week 2: Neural Networks Basics
+
+Practice  | Notebook |
+------|:-:|
+Python Basics with numpy (optional) |
+
+Assignment  | Notebook |
+------|:-:|
+Logistic Regression with a Neural Network mindset |
+
+### Week 3: Shallow Neural Networks
+
+Assignment  | Notebook |
+------|:-:|
+Planar data classification with a hidden layer |
+
+### Week 4: Deep Neural Networks
+
+Assignment  | Notebook |
+------|:-:|
+Building your Deep Neural Network: Step by Step |
+Deep Neural Network Application |
+
+____
+Únete a nuestra comunidad: https://www.facebook.com/MLDLMeetupAQP/
