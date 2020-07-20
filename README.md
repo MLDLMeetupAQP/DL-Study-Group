@@ -26,6 +26,11 @@ En este curso, aprenderemos los fundamentos de deep learning. Podremos construir
 
 ### Week 1: Introduction to Deep Learning
 
+Tema  | Slides | Video
+-----| :-: | :-: |
+Charla Informativa | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1E9zVoC6OizqfHGeH7uhFhxjcqKWZgPRW/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/tCtnrJYXBpE)
+Introduction to Deep Learning | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1--LH4T7usa9m-6CjLYwhuhRuptEgHtdi/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/in-oRbVDq7g)
+
 ### Week 2: Neural Networks Basics
 
 Practice  | Notebook |
