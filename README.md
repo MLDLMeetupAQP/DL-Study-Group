@@ -35,11 +35,11 @@ Introduction to Deep Learning | [![](./imgs/icon_pdf.png)](https://drive.google.
 
 Practice  | Notebook |
 ------|:-:|
-Python Basics with numpy (optional) |
+Python Basics with numpy (optional) |  [![](./imgs/icon_jupyter.png)](./Neural%20Networks%20and%20Deep%20Learning/Week%202/Python%20Basics%20with%20Numpy/Python_Basics_With_Numpy_v3a.ipynb)
 
 Assignment  | Notebook |
 ------|:-:|
-Logistic Regression with a Neural Network mindset |
+Logistic Regression with a Neural Network mindset | [![](./imgs/icon_jupyter.png)](./Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
 
 ### Week 3: Shallow Neural Networks
 
