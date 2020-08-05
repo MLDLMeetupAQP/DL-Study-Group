@@ -48,6 +48,10 @@ Logistic Regression with a Neural Network mindset | [![](./imgs/icon_jupyter.png
 
 ### Week 3: Shallow Neural Networks
 
+Tema  | Slides | Video
+-----| :-: | :-: |
+Shallow Neural Networks | [![](./imgs/icon_pdf.png)](https://cs230.stanford.edu/files/C1M3.pdf) | [![](./imgs/icon_youtube.png)](https://youtu.be/KOE7R8wbyLs)
+
 Assignment  | Notebook |
 ------|:-:|
 Planar data classification with a hidden layer | [![](./imgs/icon_jupyter.png)](./Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
