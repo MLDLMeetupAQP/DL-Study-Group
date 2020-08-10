@@ -58,6 +58,11 @@ Planar data classification with a hidden layer | [![](./imgs/icon_jupyter.png)](
 
 ### Week 4: Deep Neural Networks
 
+Tema  | Video
+-----| :-: |
+Deep Neural Networks |  [![](./imgs/icon_youtube.png)](https://youtu.be/25AOq1woHSQ)
+AI Research |  [![](./imgs/icon_youtube.png)](https://www.youtube.com/watch?v=25AOq1woHSQ&t=5940s)
+
 Assignment  | Notebook |
 ------|:-:|
 Building your Deep Neural Network: Step by Step | [![](./imgs/icon_jupyter.png)](./Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
