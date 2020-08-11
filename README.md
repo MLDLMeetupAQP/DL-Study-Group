@@ -22,7 +22,7 @@ Nos reunimos semanalmente abarcando temas específicos, revisando el material di
 </a>
 </p>
 
-En este curso, aprenderemos los fundamentos de deep learning. Podremos construir, entrenar y aplicar redes neuronales profundas completamente conectadas. Aprenderemos cómo implementar redes neuronales eficientes (vectorizadas). Comprenderemos los parámetros clave en un arquitectura de red neuronal. Este curso también nos enseña cómo funciona realmente el aprendizaje profundo, en lugar de presentar solo una descripción superficial o superficial.
+En este curso, aprenderemos los fundamentos de deep learning. Podremos construir, entrenar y aplicar redes neuronales profundas completamente conectadas. Aprenderemos cómo implementar redes neuronales eficientes (vectorizadas). Comprenderemos los parámetros clave en un arquitectura de red neuronal. Este curso también nos enseña cómo funciona realmente el aprendizaje profundo, en lugar de presentar solo una descripción superficial.
 
 ### Week 1: Introduction to Deep Learning
 
@@ -67,6 +67,33 @@ Assignment  | Notebook |
 ------|:-:|
 Building your Deep Neural Network: Step by Step | [![](./imgs/icon_jupyter.png)](./Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
 Deep Neural Network Application | [![](./imgs/icon_jupyter.png)](./Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20Application/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
+
+
+## Curso 2: Improving Deep Neural Networks
+
+<p align="center">
+   <a href="https://www.coursera.org/learn/deep-neural-network/" >
+  <img src="https://deeplearning-assets.s3.amazonaws.com/content/uploads/2018/09/Course2.jpeg"   width="300" height="300" >
+</a>
+</p>
+
+En este curso, aprenderemos las mejores prácticas de la industria para crear aplicaciones de deep learning. Utilizaremos eficazmente los "trucos" más comunes de la red neuronal, incluyendo la inicialización de parámetros, regularización L2 y dropout, batch normalization, gradient checking. Seremos capaces de implementar y aplicar una variedad de algoritmos de optimización, como mini-batch gradient descent, Momentum, RMSprop y Adam. Aprenderemos los frameworks Tensorflow y Pytorch para la creación de redes neuronales.
+
+### Week 1: Practical aspects of Deep Learning
+
+Assignment  | Notebook |
+------|:-:|
+Initialization | [![](./imgs/icon_jupyter.png)](./Improving%20Deep%20Neural%20Network/Week%201/Initialization/Initialization.ipynb)
+Regularization | [![](./imgs/icon_jupyter.png)](./Improving%20Deep%20Neural%20Network/Week%201/Regularization/Regularization_v2a.ipynb)
+Gradient Checking | [![](./imgs/icon_jupyter.png)](./Improving%20Deep%20Neural%20Network/Week%201/Gradient%20Checking/Gradient%2BChecking%2Bv1.ipynb)
+
+### Week 2: Optimization algorithms
+
+Assignment  | Notebook |
+------|:-:|
+Optimization | [![](./imgs/icon_jupyter.png)](./Improving%20Deep%20Neural%20Network/Week%202/Optimization_methods_v1b.ipynb)
+
+### Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
 ____
 Únete a nuestra comunidad: https://www.facebook.com/MLDLMeetupAQP/
