@@ -81,6 +81,10 @@ En este curso, aprenderemos las mejores prácticas de la industria para crear ap
 
 ### Week 1: Practical aspects of Deep Learning
 
+Tema  | Slides | Video
+-----| :-: | :-: |
+Practical aspects of Deep Learning | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1i0uN4QIqtNZy21M5NE23tGchqlYCXCmo/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/b_722dlzIWY)
+
 Assignment  | Notebook |
 ------|:-:|
 Initialization | [![](./imgs/icon_jupyter.png)](./Improving%20Deep%20Neural%20Network/Week%201/Initialization/Initialization.ipynb)
@@ -95,5 +99,8 @@ Optimization | [![](./imgs/icon_jupyter.png)](./Improving%20Deep%20Neural%20Netw
 
 ### Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
+Assignment  | Notebook |
+------|:-:|
+Tensorflow | [![](./imgs/icon_jupyter.png)](./Improving%20Deep%20Neural%20Network/Week%203/TensorFlow_Tutorial_v3b.ipynb)
 ____
 Únete a nuestra comunidad: https://www.facebook.com/MLDLMeetupAQP/
