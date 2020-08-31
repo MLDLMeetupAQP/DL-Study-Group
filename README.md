@@ -93,6 +93,10 @@ Gradient Checking | [![](./imgs/icon_jupyter.png)](./Improving%20Deep%20Neural%2
 
 ### Week 2: Optimization algorithms
 
+Tema  | Slides | Video
+-----| :-: | :-: |
+Optimization Algorithms | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1g3AJxsPnXf_GYeiE-f9VSbKIyqYiW3kL/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/K_Uf4vNXxZs)
+
 Assignment  | Notebook |
 ------|:-:|
 Optimization | [![](./imgs/icon_jupyter.png)](./Improving%20Deep%20Neural%20Network/Week%202/Optimization_methods_v1b.ipynb)
