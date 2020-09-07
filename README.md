@@ -103,6 +103,10 @@ Optimization | [![](./imgs/icon_jupyter.png)](./Improving%20Deep%20Neural%20Netw
 
 ### Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
+Tema  | Slides | Video
+-----| :-: | :-: |
+Hyperparameter tuning, Batch Normalization and Multiclass Classification | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1ILC2yx3kbuOgXVxMQyt48aAO7N9ln4Kj/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/cotl5GDdXo8)
+
 Assignment  | Notebook |
 ------|:-:|
 Tensorflow | [![](./imgs/icon_jupyter.png)](./Improving%20Deep%20Neural%20Network/Week%203/TensorFlow_Tutorial_v3b.ipynb)
