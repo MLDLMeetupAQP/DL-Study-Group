@@ -22,7 +22,7 @@ Nos reunimos semanalmente abarcando temas específicos, revisando el material di
 </a>
 </p>
 
-En este curso, aprenderemos los fundamentos de deep learning. Podremos construir, entrenar y aplicar redes neuronales profundas completamente conectadas. Aprenderemos cómo implementar redes neuronales eficientes (vectorizadas). Comprenderemos los parámetros clave en un arquitectura de red neuronal. Este curso también nos enseña cómo funciona realmente el aprendizaje profundo, en lugar de presentar solo una descripción superficial.
+En este curso aprenderemos los fundamentos de deep learning. Podremos construir, entrenar y aplicar redes neuronales profundas completamente conectadas. Aprenderemos cómo implementar redes neuronales eficientes (vectorizadas). Comprenderemos los parámetros clave en un arquitectura de red neuronal. Este curso también nos enseña cómo funciona realmente el aprendizaje profundo, en lugar de presentar solo una descripción superficial.
 
 ### Week 1: Introduction to Deep Learning
 
@@ -77,7 +77,7 @@ Deep Neural Network Application | [![](./imgs/icon_jupyter.png)](./Neural%20Netw
 </a>
 </p>
 
-En este curso, aprenderemos las mejores prácticas de la industria para crear aplicaciones de deep learning. Utilizaremos eficazmente los "trucos" más comunes de la red neuronal, incluyendo la inicialización de parámetros, regularización L2 y dropout, batch normalization, gradient checking. Seremos capaces de implementar y aplicar una variedad de algoritmos de optimización, como mini-batch gradient descent, Momentum, RMSprop y Adam. Aprenderemos los frameworks Tensorflow y Pytorch para la creación de redes neuronales.
+En este curso aprenderemos las mejores prácticas de la industria para crear aplicaciones de deep learning. Utilizaremos eficazmente los "trucos" más comunes de la red neuronal, incluyendo la inicialización de parámetros, regularización L2 y dropout, batch normalization, gradient checking. Seremos capaces de implementar y aplicar una variedad de algoritmos de optimización, como mini-batch gradient descent, Momentum, RMSprop y Adam. Aprenderemos los frameworks Tensorflow y Pytorch para la creación de redes neuronales.
 
 ### Week 1: Practical aspects of Deep Learning
 
@@ -110,5 +110,23 @@ Hyperparameter tuning, Batch Normalization and Multiclass Classification | [![](
 Assignment  | Notebook |
 ------|:-:|
 Tensorflow | [![](./imgs/icon_jupyter.png)](./Improving%20Deep%20Neural%20Network/Week%203/TensorFlow_Tutorial_v3b.ipynb)
+
+
+## Curso 3: Structuring Machine Learning Projects
+
+<p align="center">
+   <a href="https://www.coursera.org/learn/machine-learning-projects" >
+  <img src="https://deeplearning-assets.s3.amazonaws.com/content/uploads/2018/09/Course3.jpeg"   width="300" height="300" >
+</a>
+</p>
+
+
+En este curso aprenderemos a crear un proyecto de machine learning exitoso. Comprenderemos cómo diagnosticar errores y ser capaces de priorizar las direcciones más prometedoras para reducirlos. Entenderemos configuraciones complejas de ML, como conjuntos de prueba/entrenamiento con diferente distribución, y comparar y/o superar el rendimiento a nivel humano. Finalmente veremos cómo aplicar el aprendizaje end-to-end, el aprendizaje por transferencia (transfer learning) y el aprendizaje multitarea (multi-task learning).
+
+### Week 1: ML Strategy (1)
+
+### Week 2: ML Strategy (2)
 ____
-Únete a nuestra comunidad: https://www.facebook.com/MLDLMeetupAQP/
+Únete a nuestra comunidad: 
+- Facebook: https://www.facebook.com/MLDLMeetupAQP/
+- Slack: https://bit.ly/2uoRQKS
