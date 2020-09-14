@@ -125,6 +125,10 @@ En este curso aprenderemos a crear un proyecto de machine learning exitoso. Comp
 
 ### Week 1: ML Strategy (1)
 
+Tema  | Slides | Video
+-----| :-: | :-: |
+Machine Learning Project Strategy | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1sY3EqBBuraQXTZGGPqUB-TlYpV3p9Z1r/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/izR60O5VIZI)
+
 ### Week 2: ML Strategy (2)
 ____
 Únete a nuestra comunidad: 
