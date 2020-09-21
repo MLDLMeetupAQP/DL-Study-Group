@@ -130,6 +130,11 @@ Tema  | Slides | Video
 Machine Learning Project Strategy | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1sY3EqBBuraQXTZGGPqUB-TlYpV3p9Z1r/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/izR60O5VIZI)
 
 ### Week 2: ML Strategy (2)
+
+Tema  | Slides | Video
+-----| :-: | :-: |
+Machine Learning Project Strategy (Part 2)| [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1tqwALgf7UiOjXsxK9NXJ8bJdB7LEzEWx/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/f9sYe-IE7S8)
+
 ____
 Únete a nuestra comunidad: 
 - Facebook: https://www.facebook.com/MLDLMeetupAQP/
