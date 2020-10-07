@@ -148,6 +148,10 @@ En este curso aprenderemos a construir redes neuronales convolucionales y a apli
 
 ### Week 1: Foundations of Convolutional Neural Networks
 
+Tema  | Video
+-----| :-: |
+Foundations of Convolutional Neural Networks | [![](./imgs/icon_youtube.png)](https://youtu.be/woWI5Fh88iI)
+
 Assignment  | Notebook |
 ------|:-:|
 Convolutional Model: step by step | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v2a.ipynb)
