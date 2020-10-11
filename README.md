@@ -135,6 +135,31 @@ Tema  | Slides | Video
 -----| :-: | :-: |
 Machine Learning Project Strategy (Part 2)| [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1tqwALgf7UiOjXsxK9NXJ8bJdB7LEzEWx/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/f9sYe-IE7S8)
 
+
+## Curso 4: Convolutional Neural Networks
+
+<p align="center">
+   <a href="https://www.coursera.org/learn/convolutional-neural-networks/" >
+  <img src="https://deeplearning-assets.s3.amazonaws.com/content/uploads/2018/09/course4.jpeg"   width="300" height="300" >
+</a>
+</p>
+
+En este curso aprenderemos a construir redes neuronales convolucionales y a aplicarlas a datos de imágenes. Comprenderemos cómo construir una red neuronal convolucional, incluidas las variaciones recientes, como las redes residuales. Aplicaremos redes convolucionales a tareas de detección y reconocimiento visual. Utilizaremos la transferencia de estilos neuronales para generar arte. Finalmente aplicaremos estos algoritmos a una variedad de imágenes, videos y otros datos 2D o 3D.
+
+### Week 1: Foundations of Convolutional Neural Networks
+
+Tema  | Video
+-----| :-: |
+Foundations of Convolutional Neural Networks | [![](./imgs/icon_youtube.png)](https://youtu.be/woWI5Fh88iI)
+
+Assignment  | Notebook |
+------|:-:|
+Convolutional Model: step by step | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v2a.ipynb)
+Convolutional Model: application | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%201/Convolution_model_Application_v1a.ipynb)
+
+### Week 2: Deep Convolutional Models: Case Studies
+### Week 3: Object Detection
+### Week 4: Special applications: Face recognition & Neural style transfer
 ____
 Únete a nuestra comunidad: 
 - Facebook: https://www.facebook.com/MLDLMeetupAQP/
