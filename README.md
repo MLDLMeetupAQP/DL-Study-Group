@@ -158,6 +158,12 @@ Convolutional Model: step by step | [![](./imgs/icon_jupyter.png)](./Convolution
 Convolutional Model: application | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%201/Convolution_model_Application_v1a.ipynb)
 
 ### Week 2: Deep Convolutional Models: Case Studies
+
+Assignment  | Notebook |
+------|:-:|
+Keras Tutorial | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%202/Keras/Keras_Tutorial_v2a.ipynb)
+Residual Networks | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%202/ResNet/Residual_Networks_v2a.ipynb)
+
 ### Week 3: Object Detection
 ### Week 4: Special applications: Face recognition & Neural style transfer
 ____
