@@ -159,6 +159,10 @@ Convolutional Model: application | [![](./imgs/icon_jupyter.png)](./Convolutiona
 
 ### Week 2: Deep Convolutional Models: Case Studies
 
+Tema  | Slides | Video
+-----| :-: | :-: |
+Deep Convolutional Models| [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1WSRjfv1gpDnP1QfdjmRwgq9glVtgO7yG/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/yx3yaX-yAgg)
+
 Assignment  | Notebook |
 ------|:-:|
 Keras Tutorial | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%202/Keras/Keras_Tutorial_v2a.ipynb)
