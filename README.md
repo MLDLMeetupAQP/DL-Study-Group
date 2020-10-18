@@ -169,8 +169,15 @@ Keras Tutorial | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Netwo
 Residual Networks | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%202/ResNet/Residual_Networks_v2a.ipynb)
 
 ### Week 3: Object Detection
+
+Assignment  | Notebook |
+------|:-:|
+Car Detection with YOLO| [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%203/Autonomous_driving_application_Car_detection_v3a.ipynb)
+
+
 ### Week 4: Special applications: Face recognition & Neural style transfer
 ____
 Únete a nuestra comunidad: 
 - Facebook: https://www.facebook.com/MLDLMeetupAQP/
 - Slack: https://bit.ly/2uoRQKS
+- Twitter: https://twitter.com/MLDLMeetupAQP
