@@ -170,6 +170,10 @@ Residual Networks | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Ne
 
 ### Week 3: Object Detection
 
+Tema  | Slides | Video
+-----| :-: | :-: |
+Object Detection | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1t9JMTUXkEp7KeKG1ElOuwI3zqihKrpCb/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/3H8fYssoxs0)
+
 Assignment  | Notebook |
 ------|:-:|
 Car Detection with YOLO| [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%203/Autonomous_driving_application_Car_detection_v3a.ipynb)
