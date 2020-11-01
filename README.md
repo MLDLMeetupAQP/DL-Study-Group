@@ -180,6 +180,12 @@ Car Detection with YOLO| [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural
 
 
 ### Week 4: Special applications: Face recognition & Neural style transfer
+
+Assignment  | Notebook |
+------|:-:|
+Face Recognition | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%204/Face%20Recognition/Face_Recognition_v3a.ipynb)
+Art generation with Neural Style Transfer | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%204/Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+
 ____
 Únete a nuestra comunidad: 
 - Facebook: https://www.facebook.com/MLDLMeetupAQP/
