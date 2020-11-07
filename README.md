@@ -181,11 +181,33 @@ Car Detection with YOLO| [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural
 
 ### Week 4: Special applications: Face recognition & Neural style transfer
 
+Tema  | Slides | Video
+-----| :-: | :-: |
+Face recognition & Neural style transfer | [![](./imgs/icon_pdf.png)](https://cs230.stanford.edu/files/C4M4.pdf) | [![](./imgs/icon_youtube.png)](https://youtu.be/gmZ3zQN5Bno)
+
 Assignment  | Notebook |
 ------|:-:|
 Face Recognition | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%204/Face%20Recognition/Face_Recognition_v3a.ipynb)
 Art generation with Neural Style Transfer | [![](./imgs/icon_jupyter.png)](./Convolutional%20Neural%20Networks/Week%204/Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
 
+## Curso 5: Sequential Models
+
+<p align="center">
+   <a href="https://www.coursera.org/learn/nlp-sequence-models" >
+  <img src="https://deeplearning-assets.s3.amazonaws.com/content/uploads/2018/09/course5.jpeg"   width="300" height="300" >
+</a>
+</p>
+En este curso aprenderemos a construir modelos para procesamiento de lenguaje natural, audio y otros datos secuenciales. Comprenderemos cómo construir y entrenar redes neuronales recurrentes (RNNs), incluidas sus diferentes variaciones, como GRUs y LSTMS. Aplicaremos modelos secuenciales para problemas de lenguaje natural, incluyendo síntesis de texto. Finalmente aplicaremos modelos de secuencia para aplicaciones de audio, incluyendo reconocimiento de voz y síntesis de música.
+
+### Week 1: Recurrent Neural Networks
+
+Tema  | Slides | Video
+-----| :-: | :-: |
+Recurrent Neural Networks | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/19iVGvm2VN9XTmk7z9D9wThA7Xx7Tw-vM/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/9GX-uzD75bM)
+
+### Week 2: Natural Language Processing & Word Embeddings
+
+### Week 3: Sequence models & Attention mechanism
 ____
 Únete a nuestra comunidad: 
 - Facebook: https://www.facebook.com/MLDLMeetupAQP/
